@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Menumaker\Events;
 
 abstract class Event
 {

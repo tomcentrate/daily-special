@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Menumaker\Http\Controllers\Auth;
 
-use App\User;
+use Menumaker\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Menumaker\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
 class AuthController extends Controller

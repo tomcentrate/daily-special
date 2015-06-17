@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: Menumaker
+        psr4_prefix: Menumaker
         src_path: app
